@@ -1,0 +1,6 @@
+*/bin
+*/obj
+*.ncrunchproject
+*.suo
+*.ncrunchsolution
+/packages*
