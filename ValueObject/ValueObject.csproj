@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2E3F1626-2C4A-4693-B909-3D8EA8008D97}</ProjectGuid>
+    <ProjectGuid>{1E5C9D71-6D99-49EF-8021-4508FC355716}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>mk.ValueObject</RootNamespace>
-    <AssemblyName>mk.ValueObject</AssemblyName>
+    <RootNamespace>ValueObject</RootNamespace>
+    <AssemblyName>ValueObject</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

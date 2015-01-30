@@ -2,7 +2,7 @@
 using Shouldly;
 using Xunit;
 
-namespace mk.ValueObject.Tests
+namespace ValueObject.Tests
 {
     public class EqualityTests
     {

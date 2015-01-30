@@ -4,3 +4,5 @@
 *.suo
 *.ncrunchsolution
 /packages*
+*.user
+/_NCrunch_ValueObject
