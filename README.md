@@ -5,3 +5,7 @@ A valueobject base type helper for applying DDD semantics
 ### Note
 
 This package is in development and not useful at this stage.
+
+## To install from NuGet
+
+    Install-Package mk.ValueObject
