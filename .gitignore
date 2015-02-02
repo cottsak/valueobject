@@ -5,4 +5,5 @@
 *.ncrunchsolution
 /packages*
 *.user
-/_NCrunch_ValueObject
+/_NCrunch*
+

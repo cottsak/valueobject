@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueObject", "ValueObject\ValueObject.csproj", "{1E5C9D71-6D99-49EF-8021-4508FC355716}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueObjectHelpers", "ValueObjectHelpers\ValueObjectHelpers.csproj", "{1E5C9D71-6D99-49EF-8021-4508FC355716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueObject.Tests", "ValueObject.Tests\ValueObject.Tests.csproj", "{BE1F6AA3-2D04-4974-962D-B70E27820EC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueObjectHelpers.Tests", "ValueObjectHelpers.Tests\ValueObjectHelpers.Tests.csproj", "{BE1F6AA3-2D04-4974-962D-B70E27820EC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

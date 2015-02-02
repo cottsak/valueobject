@@ -1,8 +1,7 @@
-﻿using System;
-using Shouldly;
+﻿using Shouldly;
 using Xunit;
 
-namespace ValueObject.Tests
+namespace ValueObjectHelpers.Tests
 {
     public class EqualityTests
     {

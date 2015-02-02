@@ -7,7 +7,7 @@
     <ProjectGuid>{1E5C9D71-6D99-49EF-8021-4508FC355716}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ValueObject</RootNamespace>
+    <RootNamespace>ValueObjectHelpers</RootNamespace>
     <AssemblyName>ValueObject</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -1,4 +1,4 @@
-﻿namespace ValueObject.Tests
+﻿namespace mk.semantics.ValueObject.Tests
 {
     class GetHashCodeTests
     {
