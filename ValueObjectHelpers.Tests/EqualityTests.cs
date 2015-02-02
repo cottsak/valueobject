@@ -22,7 +22,6 @@ namespace ValueObjectHelpers.Tests
             {
                 Street,
                 Road,
-                Place
             }
         }
 
