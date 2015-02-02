@@ -52,7 +52,7 @@ namespace ValueObjectHelpers.Tests
             myhouse.Equals(yourHouse).ShouldBe(false);
         }
 
-        [Fact(Skip = "temp hack to make deployment - DELETE ME!")]
+        [Fact]
         public void GivenAnObjectHasAllEqualPropertiess_WhenEquals_ThenReturnTrue()
         {
             var myhouse = new Address(762, "small", Address.StreetType.Street);
